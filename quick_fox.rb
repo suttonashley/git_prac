@@ -29,6 +29,7 @@ end
 class Rhombus < Trapezoid
 end
 
+# hey cool code
 
 def test
   square = Square.new
